@@ -1,0 +1,16 @@
+Author information:  
+			/*****************************************
+ 			 *                                       *
+			 *  Name:   Muhammad Rizwan Khalid       *
+			 *  Reg.No: 180459                       *
+			 *  Class:  BSCS-6A                      *
+			 *  IDE:    CodeBlocks                   *
+ 			 *                                       *
+ 			 *****************************************/
+Brief Explanation: 
+			In this project we have to made two functions one is ecrypt while the other is 
+			decrypt. Encrypt function shifts every alphabet in the given string k (1-25) 
+			times forward and generate the encrypted string. Decrypt function shifts every
+			alphabet of encrypted function k times backword to generate the orignal string.
+Difficulties faced:
+			Dealing with ASCII for the alphabets was little bit trick and exhausted me alot.

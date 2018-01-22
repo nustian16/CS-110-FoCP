@@ -1,0 +1,25 @@
+Team Members: 
+Awais Latif Khatti (Leader)
+Reg no: 199189
+
+Abdul Razzaque Jawad
+Reg no: 191408
+
+Muhammad Rizwan Khalid
+Reg no: 180459
+
+
+About Programe:
+This is a file handing program. which read a image (ppm exe file), and create a new file with effects which you choices.
+this program contains 8 effects.
+1.Convert to greyscale 		2.flip horizentally 
+3.negative of red 		4.negative of green
+5.negative of blue 		6.flatten red 
+7.flatten green 		8.flatten blue
+
+this program works on the basic of pixels and color value of pixels.
+on applying effect it changes values of colors. in the result effect will be shown on created file.
+
+
+Difficulties:
+we feel difficulty in handling effects in scanf function. it causes some issues but now we have solved that issue.

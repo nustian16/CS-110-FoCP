@@ -1,0 +1,21 @@
+********************* AUTHOR INFORMATION: *********************
+GROUP MEMBERS:   ABDUL-RAZZAQUE-JAWAD.
+                 MUHAMMAD-RIZWAN-KHALID.
+CLASS:           BSCS-6-A.
+PROJECT:         03 (RSA ENCRYPTION).
+********************* BRIEF EXPLANATION: *********************
+In this project we have first encrypted the inputted message by
+applying methods of generating keystream. 
+And after encryption we have also made it to decrypt that 
+encrypted message separately.
+This project is very similar to the previous one of 
+the CYPHER CAESAR.
+********************* DIFFICULTIES FACED: *********************
+It was difficult for us to generate the power of a larger number
+and then taking the mode of that number.
+But by searching the techniques to make it possible, on the internet
+we successfully completed our project.
+********************* COMMENTS/SUGGESTIONS: ********************* 
+This project was good as it helps us to encode our message to 
+ununderstandable form so that we can share it on internet in this
+technical era.

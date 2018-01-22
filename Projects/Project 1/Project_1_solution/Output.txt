@@ -1,0 +1,21 @@
+Authors Information: 1. Muhammad Rizwan Khalid (180459)
+		     2.	Muhammad Nouman Javaid (140496)
+		     
+		    Class: BSCS-6A
+
+Brief Explanation: -
+		This is soltaire encryption algorithm in which we have to generate keystream by performing 
+		five steps. In first we have to swap joker A(27) with next number. Secondly we have to swap 
+		joker B(28) with next to numbers. Thirdly we have to find first joker in the given shuffling 
+		of deck and then we have to put the numbers below first jack above the second jack and the 
+		numbers above second jack below the first jack. Fourthly we have the check the last number
+		and have to put that many number before the last number. Fifthly we have to check the first 
+		number and have to pick the number next to the value of first number.
+		In task 2: We have to perform these steps corresponding to each letter. And using arithmatic
+		information we have to encode the given message.
+		In task 3: We have to use the same keystream generated for encrytption and then by performing
+		arithmetic calculations we have to generate the orignal message(Decrypt the message.)
+
+Difficulties:
+		Step 3 was the difficul task for us. We ask our fellows to let us understand the logic of 
+		step 3. With our good approach we understood that we have to make temporary arrays.
