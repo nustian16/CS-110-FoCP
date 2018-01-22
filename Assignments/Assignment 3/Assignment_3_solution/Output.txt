@@ -1,0 +1,32 @@
+(1). Author Information: -
+		Group Leader  : Muhammad Rizwan khalid
+		Group Members : Muhammad Rizwan Khalid (180459)
+				Muhammad Nouman Javaid (140496)
+		Class: BSCS-6A
+(2). Assignment Explanation: -
+		In this assignment we have created 5 functions for the proper working of this program:
+		1st function counts the total number of digits of given number.
+		2nd This function takes input from user and calculate the mode that many times because
+		mod will give the nth digit from right.
+		3rd function is similar to 2nd function but it tell of positon of nth digit from
+		the left of the number.
+		4th function uses previous function to get the nth digit and increment the number 
+		in array at position of that digit
+		5th function uses third function to get the nth digit of given array then it will 
+		compare with the return array if the digit match then return array will be increment
+		by one at that position.
+(3). Pattern of Numbers: -
+		0s:	5136 (55%)
+		1s:	499 (5%)
+		2s:	446 (4%)
+		3s:	457 (4%)
+		4s:	446 (4%)
+		5s:	482 (5%)
+		6s:	469 (5%)
+		7s:	462 (4%)
+		8s:	441 (4%)
+		9s:	439 (4%)
+(4). Outlining pattern Law: -
+		This program gives the output by accepting numbers from the array and give frequencies
+		of numbers from 0-9 at the positions given by user.
+
